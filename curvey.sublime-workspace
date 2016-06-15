@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mid",
+				"midpoint4〔function〕"
+			],
+			[
+				"or",
+				"original_grid"
+			],
+			[
+				"well",
+				"well_type"
+			],
+			[
+				"api",
+				"apis_intersect"
+			],
+			[
+				"pri",
+				"primary_product"
+			],
+			[
+				"apis",
+				"apis_clean〔variable〕"
+			],
+			[
+				"list",
+				"list_filter"
+			],
+			[
+				"interes",
+				"interest_type"
+			],
+			[
+				"Mod",
+				"ModelAdmin"
+			],
+			[
+				"irr",
+				"irr_results"
+			],
+			[
+				"from",
+				"from_records〔function〕"
+			],
+			[
+				"to",
+				"to_excel"
+			],
+			[
+				"gas",
+				"gas_cash_flow"
+			],
+			[
+				"oil",
+				"oil_cash_flow"
+			],
+			[
+				"GAS",
+				"GAS_TAX〔variable〕"
+			],
+			[
+				"cumulative",
+				"cumulative_budget"
+			],
+			[
+				"budget",
+				"budgeted_amount"
+			],
+			[
+				"buyer",
+				"buyers_nra"
+			],
+			[
+				"buyers",
+				"buyers_price_per_nra"
+			],
+			[
+				"Fro",
+				"ForeignKey"
+			],
+			[
+				"clos",
+				"closing_data_sorted〔variable〕"
+			],
+			[
+				"opera",
+				"operator"
+			],
+			[
+				"closing",
+				"closing_date"
+			],
+			[
+				"area",
+				"area_data"
+			],
+			[
+				"by",
+				"by_area〔variable〕"
+			],
+			[
+				"not",
+				"not_scheduled〔variable〕"
+			],
+			[
+				"get",
+				"getrgb"
+			],
+			[
+				"tdm",
+				"tdm_total_price"
+			],
+			[
+				"Tumb",
+				"Tumbleweed_Budget〔module〕"
+			],
+			[
+				"final",
+				"final_remaining"
+			],
+			[
+				"amou",
+				"amount_not_scheduled"
+			],
+			[
+				"amount",
+				"amount_scheduled〔variable〕"
+			],
+			[
+				"tdm_total_",
+				"tdm_total_price__sum"
+			],
+			[
+				"amu",
+				"amount_not_scheduled"
+			],
+			[
+				"cu",
+				"cumulative_spending"
+			],
+			[
+				"net",
+				"net_royalty_acres"
+			],
+			[
+				"Tumbl",
+				"Tumbleweed_Budget〔class〕"
+			],
+			[
+				"evaluation",
+				"evaluation_status"
+			],
+			[
+				"pis",
+				"pisaStatus〔variable〕"
+			],
+			[
+				"pdf",
+				"pdfFile〔variable〕"
+			],
+			[
+				"create",
+				"create_engine〔function〕"
+			],
+			[
+				"base",
+				"base_total_price"
+			],
+			[
+				"int",
+				"int_type"
+			],
+			[
+				"legal",
+				"legal_description"
+			],
+			[
+				"CARRY",
+				"CARRY_PROMOTE〔variable〕"
+			],
+			[
+				"CARR",
+				"CARRY_RATIO〔variable〕"
+			],
+			[
+				"AC",
+				"ACQUISITION_COST〔variable〕"
+			],
+			[
+				"RJ",
+				"RJ_NRA〔variable〕"
+			],
+			[
+				"COST",
+				"COSTPLUS〔variable〕"
+			],
+			[
+				"COS",
+				"COSTPLUS〔variable〕"
+			],
+			[
+				"CAH",
+				"CASH_PROMOTE〔variable〕"
+			],
+			[
+				"TOTAL",
+				"TOTAL_PROMOTE_PER_NRA"
+			],
+			[
+				"case_cash",
+				"case_cash_profit〔variable〕"
+			],
+			[
+				"DEAL",
+				"DEAL_DAYS〔variable〕"
+			],
+			[
+				"DE_ANN",
+				"DE_ANNUAL_INTANGIBLES〔variable〕"
+			],
+			[
+				"DE_AA",
+				"DE_ANNUAL_OVERHEAD〔variable〕"
+			],
+			[
+				"case_tot",
+				"case_total_promote"
+			],
+			[
+				"CASH",
+				"CASH_PROMOTE_PROFIT〔variable〕"
+			],
+			[
+				"st",
+				"stdout〔variable〕"
+			],
+			[
+				"case",
+				"case_profit〔variable〕"
+			],
+			[
+				"LAND",
+				"LANDMAN_COST〔variable〕"
+			],
+			[
+				"LAN",
+				"LANDMAN_NUMBER〔variable〕"
+			],
+			[
+				"CASH_PR",
+				"CASH_PROMOTE"
+			],
+			[
+				"CAHS",
+				"CASH_PROMOTE_PROFIT〔variable〕"
+			],
+			[
+				"PC",
+				"PCT_CASH_AS_EXPENSES〔variable〕"
+			],
+			[
+				"PCT",
+				"PCT_CASH_AS_EXPENSES"
+			],
+			[
+				"LA",
+				"LANDOWNER_COST〔variable〕"
+			],
+			[
+				"DEA",
+				"DEAL_DAYS〔variable〕"
+			],
+			[
+				"chk",
+				"chk_no"
+			],
+			[
+				"Inves",
+				"InvestmentAdmin〔class〕"
+			],
+			[
+				"raw",
+				"raw_sql_update〔function〕"
+			],
+			[
+				"owner",
+				"owner_number"
+			],
+			[
+				"net_Rev",
+				"net_revenue_interest"
+			],
+			[
+				"accoun",
+				"account_rollup"
+			],
+			[
+				"net_rev",
+				"net_revenue_interest"
+			],
+			[
+				"work",
+				"working_interest"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"tax",
+				"tax_year"
+			],
+			[
+				"stmt",
+				"stmt_date"
+			],
+			[
+				"TDRJ",
+				"TDRJ_Accounting〔module〕"
+			],
+			[
+				"ten",
+				"ten_most_recent〔variable〕"
+			],
+			[
+				"report",
+				"report_month"
+			],
+			[
+				"WELL",
+				"WELL_NAME"
+			],
+			[
+				"PMG",
+				"PMG_WELL_NO"
+			],
+			[
+				"clean",
+				"clean_location_2〔variable〕"
+			],
+			[
+				"markdow",
+				"markdownify〔function〕"
+			],
+			[
+				"T",
+				"TDRJ_Accounting〔class〕"
+			],
+			[
+				"Pag",
+				"Paginator〔class〕"
+			],
+			[
+				"proer",
+				"property_name"
+			],
+			[
+				"operator",
+				"operator_name"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"gross",
+				"gross_acres"
+			],
+			[
+				"person",
+				"person_2"
+			],
+			[
+				"re",
+				"relationships"
+			],
+			[
+				"deat",
+				"death_place〔variable〕"
+			],
+			[
+				"death",
+				"death_date〔variable〕"
+			],
+			[
+				"birth",
+				"birth_place〔variable〕"
+			],
+			[
+				"mark",
+				"mark_safe〔module〕"
+			],
+			[
+				"eia",
+				"eia_oil_prices〔function〕"
+			],
+			[
+				"ac",
+				"activity_month"
+			],
+			[
+				"activity",
+				"activity_year"
+			],
+			[
+				"u",
+				"utilities〔module〕"
+			],
+			[
+				"prod",
+				"producing_well_count"
+			],
+			[
+				"est",
+				"est_acquisition_cost"
+			],
+			[
+				"price",
+				"price_per_reserve_boe"
+			],
+			[
+				"cont",
+				"context〔variable〕"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"Opp",
+				"Opportunity〔module〕"
+			],
+			[
+				"uni",
+				"uniquekeys〔variable〕"
+			],
+			[
+				"item",
+				"itemgetter"
+			],
+			[
+				"month",
+				"month_data"
+			],
+			[
+				"crp",
+				"crp_values"
+			],
+			[
+				"pec",
+				"pec_grouped"
+			],
+			[
+				"activ",
+				"activity_year"
+			],
+			[
+				"PEC",
+				"PEC_Accounting〔module〕"
+			],
+			[
+				"acti",
+				"activity_year"
+			],
+			[
+				"ord",
+				"order_by"
+			],
+			[
+				"entity",
+				"entity_net_revenue"
+			],
+			[
+				"total",
+				"total_expenses"
+			],
+			[
+				"drop",
+				"drop_list〔variable〕"
+			],
+			[
+				"dro",
+				"drop_list〔variable〕"
+			],
+			[
+				"COLU",
+				"COLUMN_LIST〔variable〕"
+			],
+			[
+				"COL",
+				"COLUMN_LIST"
+			],
+			[
+				"vol",
+				"volume_ppl"
+			],
+			[
+				"IGNORE",
+				"IGNORE_SHEETS〔variable〕"
+			],
+			[
+				"nominal",
+				"nominal_exponential_decline〔argument〕"
+			],
+			[
+				"inti",
+				"initial_cumulative〔argument〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 111.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insat",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				" insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sea",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install ap",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ",
+				"Set Syntax: HTML"
+			],
+			[
+				"colr",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"josn",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"re",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:i ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"reindent",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/WaltN/Desktop/GitHub/curvey"
+	],
+	"file_history":
+	[
+		"/C/Users/WaltN/AppData/Local/Continuum/Anaconda2/Lib/site-packages/tumbleweed/arps.py",
+		"/C/Users/WaltN/AppData/Local/Continuum/Anaconda2/Lib/site-packages/tumbleweed/tools.py",
+		"/C/Users/WaltN/Desktop/GitHub/curveFit/curveFit.py",
+		"/Z/LAND/TDR-J_INVESTMENTS/RIVERLAND_PROPERTIES/EAGLEFORD/VESPER_ASSOC_UNIT/MEMO_LWN_THardie_vesper_assoc_sharing_agmt_20151006.md",
+		"/Z/LAND/TUG_HILL_MINERALS_I/RJ_CHIEF_SALE/AgmtChangeLog.md",
+		"/Z/PROSPECTS/FORELAND/PhoneCallNotes_20160609.txt",
+		"/Z/LAND/TDR-J_INVESTMENTS/SCRIPTS/combine_tdrj_revenue.py",
+		"/Z/LAND/PEC_MINERALS_LP/AD_VALOREM_TAXES/analize_produciton.py",
+		"/C/Users/WaltN/AppData/Local/Continuum/Anaconda/Lib/site-packages/tumbleweed/tumbleweed.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/somerset_update.py",
+		"/Z/GIS/TUMBLEWEED/LabelExpressions/conditional_price_nra.py",
+		"/C/Users/WaltN/AppData/Local/Continuum/Anaconda/Lib/site-packages/tumbleweed/extract_raster_px_by_value.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_index.html",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/ECONOMICS/scripts/type_curves/type_curve_sensativites.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_evaluations.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/views.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/urls.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_pricerange.html",
+		"/Z/GIS/TUMBLEWEED/Scripts/midpoints.py",
+		"/Z/GIS/SUBSCRIPTION_DATA/DRILLING_INFO/SCRIPTS/UpdateGDB_V4.py",
+		"/Z/COMPANY/MEETINGS/2015_Nov_3_TRJ_MeetingNotes.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/add_tumbleweed_wells.py",
+		"/F/Clay/clay.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/tumbleweed_legal_update.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/admin.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/models.py",
+		"/Z/PROSPECTS/MIKE_ALLEN_CHK_MINERALS_NOV_2015/well_list.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/pec_update.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_budget.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/get_eia_data.py",
+		"/Z/LAND/CHIEF_ROYALTY_PARTNERS/WELLS_UNITS/C J Edwards GU/MEMO_LWN_THardie_CJEdwardsDivisionOrder_20151016.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_deals.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_byclosing.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/templatetags/dict_lookup.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/index.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_detail.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tumbleweed_closed.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/static/css/base.css",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/base.html",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/REPORTS/queries/base.py",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/REPORTS/templates/package_table.html",
+		"/Z/GIS/SUBSCRIPTION_DATA/DRILLING_INFO/SCRIPTS/UpdateGDB_V2.py",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/REPORTS/tumbleweed_reports.py",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/CLOSINGS/2015_10_OCTOBER/ClosingDetails20151008.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/settings.py",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/ECONOMICS/scripts/pec_pricing/graph_pec_oil.py",
+		"/Z/LAND/CHIEF_ROYALTY_PARTNERS/WELLS_UNITS/Quarterhorse/MEMO_LWN_THardie_QuarterhorseDivisionOrder_20151016.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/VESPER_ASSOC_UNIT/MEMO_LWN_THardie_vesper_assoc_sharing_agmt_20151006.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/YOUNG_UNIT/YoungGasUnit_InterestVerificationNotes_LWN_20150717.md",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/Purchase and Sale Agreement Summary.md",
+		"/Z/PROSPECTS/TUMBLEWEED_0802015/HOWARD_1/Howard_1.txt",
+		"/Z/PROSPECTS/BREWSTER_092015/BrewsterEvaluationNotes.md",
+		"/Z/PROSPECTS/Tumbleweed_Aug2015/NOTES/Tumbleweed_September_23_2015_Document_Meeting.md",
+		"/Z/PROSPECTS/Tumbleweed_Aug2015/NOTES/Tumbleweed_September9_2015_Tech_Meeting.md",
+		"/Z/COMPANY/MEETINGS/2015_Sept_8_MeetingNotes.md",
+		"/Z/COMPANY/MEETINGS/2015_Sept_22_MeetingNotes.md",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/TumbleweedDueDiligence.md",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/TumbleweedDealStructure.md",
+		"/H/R-J Holdings/JOB_DESCRIPTIONS/RJH_TechnicalAdmin.md",
+		"/Z/COMPANY/MEETINGS/2015_August_11_MeetingNotes.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/update_wells_from_di_desktop.py",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/TumbleweedRoyalty_DealTerms.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tdrj_acct_data_entry_form.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/forms.py",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/Tumbleweed_September9_2015_Tech_Meeting.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/investments.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/investment.html",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/promote.py",
+		"/Z/LAND/CHIEF_ROYALTY_PARTNERS/WELLS_UNITS/Sheppard C/Memo_CRP_DOs_LWN_THardie_20150914.md",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/GOSSETT/gossett_legal_parse_mapping.py",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/cost analysis/TumbleweedCostAnalysis_GOSSETT_BaseCase.txt",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/cost analysis/CostSummary_GOSSETT_BaseCase.txt",
+		"/Z/LAND/PROSPECTS/Tumbleweed_Aug2015/cost analysis/CostSummary_GOSSETT",
+		"/Z/LAND/HENDRICK_RANCH/OPERATORS/HRWells.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/GAPP_LEASE/Memo_GappLease_LWN_THardie_20150828.md",
+		"/Z/COMPANY/MEETINGS/20150825_MeetingAgenda_TRJ.md",
+		"/Z/LAND/CHIEF_ROYALTY_PARTNERS/DISTRIBUTIONS/2014/2014recap.py",
+		"/Z/LAND/HENDRICK_RANCH/OPERATORS/HRContacts.md",
+		"/Z/LAND/HENDRICK_RANCH/PURCHASERS/HendrickRanch_OperatorContacts.md",
+		"/Z/LAND/HENDRICK_RANCH/PURCHASERS/PayStatusInquery.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0083_auto_20150821_1414.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tdrj_acct_data_entry_form_next.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/create_pmg_well_interests_from_ss.py",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD_EXTENSION/WELLS_UNITS/STEEPHOLLOW_UNIT/Memo_DivOrder_SteephollowUnit_LWN_THardie_20150810.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD_EXTENSION/WELLS_UNITS/STEEPHOLLOW_UNIT/Steephollow_UnitInterestVerification_20150805.md",
+		"/C/Users/WaltN/Dropbox/Notes/.brain/Inbox.note",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/unit.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/well.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/templatetags/markdown_filter.py",
+		"/Z/LAND/PENNSYLVANIA_MINERAL_GROUP/make_notes_from_pmg_ss.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/clean_api_for_didesktop.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/somerset_combine.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/serializer.py",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/YOUNG_UNIT/TalismanDivisionOrders_YoungGasUnit_July2015.pdf",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/KENEDY CORP GU 1/KenedyGasUnit_InterestVerificationNotes_LWN_20150707.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/api.txt",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/wells.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/divisionorder_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/division_order.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/lease_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/lease.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/deed.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/deeds.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0059_auto_20150727_0929.py",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/ADAMEK_001H/MEMO_LWN_THardie__AdamekUnit_DO_20150327.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/PARKER_UNIT/ParkerUnitInterestVerification.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/docs/conf.py",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/WARNER_UNIT/Memo_LWN_THardie_Warner01Unit_DivisionOrders_20150520.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/DUNCAN_UNIT/UnitInterestVerification.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/REYNOLDS_UNIT/ReynoldsUnit_InterestVerificationNotes_LWN_20150724.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/REYNOLDS_UNIT/Memo_ReynoldsUnit_LWN_THardie_20150727.md",
+		"//cogdalfiles/Private User Files/WaltN/SCRATCH/test.bat",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0060_auto_20150727_1001.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0056_auto_20150724_1650.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0057_auto_20150724_1652.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0054_auto_20150724_1635.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0053_auto_20150724_1628.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0051_auto_20150724_1621.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0050_auto_20150724_1523.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0044_auto_20150724_1443.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0042_auto_20150724_1436.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0040_units.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0041_auto_20150724_1409.py",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/H/todo/default.todo",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/docs/modules/models.rst",
+		"/H/R-J Holdings/HR/2015 Confidentiality Agreement_QuestionsForEric.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/REYNOLDS_UNIT/Memo_LWN_THardie_ReynoldsUnit_20141104.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"True",
+			"proj",
+			"Interest",
+			"year",
+			"Foreign",
+			"RJOM.DBO.%tumbleweed_1",
+			"RJOM.DBO.%tumbleweed",
+			"[EVALUATION_STATUS]",
+			"[price_notes]",
+			"[base_price_per_nra]",
+			"[NAME]",
+			"[price_per_nra]",
+			"[STATUS]",
+			"Engineering",
+			"'",
+			"TOTAL_PROMOTE_PER_NRA",
+			"COSTPLUS",
+			"CARRY",
+			"CASH_PROFIT",
+			"---------------------------------------------------------\n",
+			"as",
+			"}%\n",
+			"drilling",
+			"PID",
+			"NTD:",
+			"Somerset",
+			"contact",
+			"Foreign",
+			"TDRJ_Acct_DataEntryForm",
+			"945",
+			"well",
+			"NOAPI",
+			"get_date",
+			"division",
+			"division order",
+			"endfor",
+			"context",
+			"GDBDIR",
+			"Individual",
+			"row",
+			"crp_acct_well",
+			"crp_well_history",
+			"timezone",
+			"tz",
+			"tzinfo",
+			"datetime",
+			"qry",
+			"%}",
+			"utc",
+			" {{",
+			"Average",
+			"total_net_revenue",
+			"strptime",
+			"\n-",
+			"\n	",
+			"%}${{",
+			"code",
+			"auto",
+			"                '",
+			"pep",
+			"pep8",
+			"whitespace",
+			"divo",
+			"asset_company",
+			"well",
+			"lease",
+			"divo",
+			"	\n",
+			"font",
+			"8900",
+			"5301",
+			"5201",
+			"4101",
+			"4003",
+			"3904",
+			"3806",
+			"3702",
+			"37",
+			"3702",
+			"3505",
+			"3503",
+			"3401",
+			"3405",
+			"2902",
+			"2702",
+			"2601",
+			"2202",
+			"2002",
+			"2202",
+			"202",
+			"1801",
+			"1503",
+			"1502",
+			"1303",
+			"1102",
+			"1102A",
+			"1102a",
+			"602",
+			"601",
+			"0601",
+			"v237",
+			"v233",
+			"haskell",
+			"v125",
+			"42-417-0020",
+			"42-207-0010",
+			"42-417-0020",
+			"42-207-0009",
+			"42-207-0020L",
+			"42-207-0010L",
+			"42-207-0012L",
+			"42-207-0009L",
+			"spec",
+			"42-447-0005",
+			"42-447-0006L-HR",
+			"42-207-0010",
+			"42-447-0010",
+			"42-417-0018L",
+			"42-417-0018",
+			"42-417-0020",
+			"42-417-0018",
+			"81",
+			"42-81-0007L",
+			"42-81-0009",
+			"42-417-0009",
+			"42-417-0008",
+			"transoil",
+			"trans oil "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RJOM.DBO.%tumbleweed",
+			"RJOM.DBO.%tumbleweed_1",
+			"[RJOM.DBO.%tumbleweed.evaluation_status]",
+			"[RJOM.DBO.%tumbleweed.price_notes] ",
+			"[RJOM.DBO.%tumbleweed.base_price_per_nra]",
+			"[RJOM.DBO.%tumbleweed.deal_name]",
+			"[base_price_per_nra]",
+			"[EVALUATION_STATUS]",
+			"",
+			"CASH_RATIO",
+			"CARRY_RATIO",
+			"_*NTD:*_",
+			"Person",
+			"data",
+			"Avg",
+			"entity_net_revenue",
+			"row",
+			"proj",
+			"well",
+			"lease",
+			"207",
+			"agmt_type: OGL_PaidUp",
+			"DEFAULT",
+			"\"",
+			"\"\"",
+			"OGL_PaidUp",
+			".20",
+			"BML INC",
+			"C E JACOBS COMPANY",
+			"",
+			"phone1name:",
+			"email1",
+			"- ",
+			"children"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 128.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "",
+	"project": "curvey.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Z:\\RJH_DB\\rjwellapi.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\cogdalfiles\\Private User Files\\WaltN\\Sublime Projects\\tumbleweed.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
