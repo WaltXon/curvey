@@ -1,0 +1,30 @@
+
+Rate at time t
+
+if
+(Decline(nominal/month)*(last_interval_qi/initial_qi)^b_factor >= Dm(nominal/month)
+then
+initial_qi*((1+adjusted_b_factor*Decline(nominal/month)*standard_time)^(-1/adjusted_b_factor))
+else
+last_interval_qi*EXP(-Dm(nominal/month)))
+
+
+Cumulative production at time t
+if
+(Decline(nominal/month)*(last_interval_rate/initial_qi)^b_factor>=Dm(nominal/month)
+then
+(initial_qi/(Decline(nominal/month)*(adjusted_b_factor-1)))*(((1+adjusted_b_factor*Decline(nominal/month)*standard_time)^(1-(1/adjusted_b_factor)))-1)
+else
+(last_interval_rate/Dm(nominal/month))*(1-(EXP(-Dm(nominal/month)*(standard_time-last_standard_time))))+last_cumulative_production_value)
+
+nominal decline per year
+
+if
+Decline(nominal/year)*(last_interval_rate/initial_qi)^b_factor>=Dm(nominal/year)
+then
+ Decline(nominal/year)*(last_interval_rate/initial_qi)^b_factor
+ else
+ Dm(nominal/year)
+
+effecitive decline per year
+=1-EXP(-nominal_decline_per_year_same_time)

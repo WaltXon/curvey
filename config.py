@@ -1,19 +1,21 @@
-config={
+import copy
+
+inputs={
     'curves': {
             'oil': {
-                    'QiPerMonth': 19400,
-                    'QfPerMonth': 15,
-                    'DiPerYear': .81,
-                    'b': 1.0,
-                    'Dmin': 6,
+                    'Qi_monthly': 19400,
+                    'Qf_monthly': 15,
+                    'nominal_decline_annual': .81,
+                    'b_factor': 1.0,
+                    'Dmin_annual': 0.06,
                     'EUR': 789000,
                     },
             'gas':{
-                    'QiPerMonth': 111000,
-                    'QfPerMonth': 0,
-                    'DiPerYear': .64,
-                    'b': 1.0,
-                    'Dmin': 5,
+                    'Qi_monthly': 111000,
+                    'Qf_monthly': 0,
+                    'nominal_decline_annual': .64,
+                    'b_factor': 1.0,
+                    'Dmin_annual': 0.05,
                     'EUR': 6581000,
                     },
             'ngl':{},
@@ -21,7 +23,7 @@ config={
     'taxes':{
             'ad_val': .025,
             'severance': {
-                            'oil': 0.46,
+                            'oil': 0.046,
                             'gas':.075,
                         }
 
@@ -38,6 +40,27 @@ config={
             'icc': 3.0*10**6,
             'land':5.0*10**5,
     },
-    'economic_life_max': 50*12,
+    'max_life_years': 50,
     'production_delay': 3,
+    'start_date': '20160601',
+    'standard_days_in_month': 30.4375,
+    'standard_days_in_year': 365.25,
+
 }
+
+config=copy.copy(inputs)
+
+for product, record in inputs['curves'].iteritems():
+    if record !={}:
+        if float(record['b_factor'])==1.0:
+            config['curves'][product]['b_factor_adj']=1.001
+        elif float(record['b_factor'])==0.0:
+            config['curves'][product]['b_factor_adj']=0.001
+        else:
+            config['curves'][product]['b_factor_adj']=record['b_factor']
+
+        config['curves'][product]['nominal_decline_monthly']=record['nominal_decline_annual']/12.0
+        config['curves'][product]['Dmin_monthly']=record['Dmin_annual']/12.0
+
+config['max_life_months']=inputs['max_life_years']*12
+config['max_life_days']=inputs['max_life_years']*inputs['standard_days_in_year']
