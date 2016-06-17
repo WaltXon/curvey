@@ -14,7 +14,7 @@ def cum_at_t(nominal_monthly_decline, initial_rate, prior_interval_rate, b_facto
 
 def nominal_decline_annual(nominal_annual_decline, prior_interval_rate, initial_rate, b_factor, Dmin_annual):
     if nominal_annual_decline*(prior_interval_rate/initial_rate)**b_factor>=Dmin_annual:
-        return nominal_annual_decline*(prior_interval_rate/initial_rate)
+        return nominal_annual_decline*(prior_interval_rate/initial_rate)**b_factor
     else:
         return nominal_annual_decline
 
