@@ -21,7 +21,7 @@ inputs={
             'ngl':{},
         },
     'taxes':{
-            'ad_val': .025,
+            'ad_valorum': .025,
             'severance': {
                             'oil': 0.046,
                             'gas':.075,
@@ -33,6 +33,7 @@ inputs={
             'variable': {
                         'oil': .03,
                         'gas':0.0,
+                        'ngl':0.0,
             },
     },
     'capital':{
@@ -54,6 +55,9 @@ inputs={
     'price_ngl': {},
     'after_strip_escalator_ngl': 1.03,
     'price_ngl_max': 0.0,
+    'working_interest': 1.0,
+    'net_revenue_interest': .75,
+    'discount_rate_annual': .10,
 }
 
 config=copy.copy(inputs)

@@ -72,13 +72,15 @@ def volumes():
             time.append(row['standard_time'])
 
 
+    if 'ngl' not in products:
+            for date, row in volumes.iteritems():
+                row['gross_volume_ngl']=0.0
+                row['cum_prod_ngl']=0.0
+                row['initial_rate_ngl']=0.0
 
     df_vol=pd.DataFrame(volumes)
+    df_vol_t = df_vol.T
+    df_vol_t.index=pd.to_datetime(df_vol_t.index)
 
-    if 'ngl' not in products:
-        df_vol['gross_volume_ngl']=pd.Series([0.0] * len(df_vol.index), index=df_vol.index)
-        df_vol['cum_prod_ngl']=pd.Series([0.0] * len(df_vol.index), index=df_vol.index)
-        df_vol['initial_rate_ngl']=pd.Series([0.0] * len(df_vol.index), index=df_vol.index)
-
-    df_vol.T.to_excel(r'C:\Users\WaltN\Desktop\GitHub\curvey\output\volumes.xlsx')
-    return df_vol.T
+    df_vol_t.to_excel(r'C:\Users\WaltN\Desktop\GitHub\curvey\output\volumes.xlsx')
+    return df_vol_t
